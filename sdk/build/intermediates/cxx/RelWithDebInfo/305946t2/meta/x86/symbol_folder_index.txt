@@ -1,0 +1,1 @@
+C:\Users\Sumit Manderna\AndroidStudioProjects\FaceDetection\sdk\build\intermediates\cxx\RelWithDebInfo\305946t2\obj\x86
